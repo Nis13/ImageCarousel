@@ -1,8 +1,38 @@
-<h1>Image Carousel</h1>
 
-use of typescript<br>
+## Image Carousel
 
-To run use npm run dev <br>
-or <br>
-Click on this link:<br>
+Implemented using HTML, CSS, and Typescript
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Nis13/ImageCarousel.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Run the project
+```bash
+  npm run dev
+```
+
+
+## Demo
+
 https://nis13.github.io/ImageCarousel/
+
